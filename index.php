@@ -22,6 +22,10 @@
                     Our heart and love has been poured into this website, and we hope you enjoy the content as much as we enjoyed making it for you.
                     Is your content on here, without your consent or will? Contact <a class="link" href="mailto:support@wolfsvale.tech">support@wolfsvale.tech</a> and we'll get it removed.</p>
             </div>
+            <div class="speech-bubble">Ready for the real deal? Click me!</div>
+            <a href="content.php">
+                <img class="yata-link" src="resources/assets/SpeedyYata.png" alt="Go to content">
+            </a>
         </div>
         <p class="body-footer">Website version: 1.0.0-Delta | <a class="link" href="https://wolfsvale.tech" target="_blank">JDYata 2023 &#169; Wolfsvale Software</a></p>
     </body>
