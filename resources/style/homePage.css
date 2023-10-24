@@ -111,6 +111,18 @@ body {
     background-color: #6ada56;
 }
 
+.btn-info-secondary {
+    border: 1px solid #6ada56;
+    background-color: transparent;
+    color: white;
+}
+
+.button-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
 .body-footer {
     text-align: center;
     color: #86898f;
